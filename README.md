@@ -9,4 +9,4 @@ If you use the dataset, please cite the following paper. The bibtex are listed b
 }
 ```
 
-Document describing the data will be added soon.
+README file available in the zipped file.
